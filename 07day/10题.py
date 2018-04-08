@@ -1,0 +1,12 @@
+('*'*20)
+name = print('请输入你的姓名')
+('*'*20)
+ago = print('请输入你的年龄')
+('*'*20)
+sex = print('请输入你的性别')
+('*'*20)
+where = print('请输入你来自哪里')
+('*'*20)
+print('name%s\n'%name,'ago%s\n'%ago,'sex%s\n'%sex,'where%s\n'%where)
+
+('*'*20)

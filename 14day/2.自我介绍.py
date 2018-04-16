@@ -1,0 +1,10 @@
+def trinobuce():
+	print('名字:王晓俊')
+	print('年龄:18')
+	print('身高:178')
+	print('职位:曾担任华北野战军司令')
+	print('爱好:打篮球')
+	print('体重:110')
+	print('学历:高中毕业')
+	print('地址:北京大兴区')
+trinobuce()

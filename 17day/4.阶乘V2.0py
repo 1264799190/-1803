@@ -1,0 +1,18 @@
+def get_num(num):
+	if num == 1:
+		return 1
+	else:
+		return num*get_num(num-1)
+a = get_num(5)
+print(a)
+
+
+
+def get_num(num):
+	if num == 1:
+		return 1
+	else:
+		return num*get_num(num-1)
+num = int(input('请输入数字'))
+get_num(num)
+print(num*get_num(num-1))
